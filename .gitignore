@@ -1,0 +1,5 @@
+# git rm -r --cached elite_queen/
+# git commit -m "Remove elite_queen folder from version control but keep it locally"
+# git push origin HEAD
+
+elite_queen/
