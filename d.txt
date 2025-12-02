@@ -1,4 +1,3 @@
-.git
 ai_grace
 backless
 bakunyuu
@@ -6,12 +5,10 @@ bikini
 blooming_beauty
 colorful
 cutout
-d.txt
 elite_queen
 exoticgrace
 exquisite
 forever_divine
-fs.txt
 haltertop
 keyhole
 lowcut
